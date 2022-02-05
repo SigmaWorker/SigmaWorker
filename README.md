@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SigmaWorker
-- 👍 I like to play games 
+- 👍 How I got my name I sigma was a hack client for minecraft and now I'm sigmaWorker 
 - 👿 From SigmaWorker
 <!---
 SigmaWorker/SigmaWorker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
